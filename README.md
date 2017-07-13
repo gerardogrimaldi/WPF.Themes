@@ -1,4 +1,4 @@
 WPF.Themes
 ==========
 
-Themes for WPF proyects
+Themes for WPF projects
